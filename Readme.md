@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Ростислав Радченко](https://up.htmlacademy.ru/htmlcss/35/user/2176143).
-* Наставник: [Ivan Zharkov](https://up.htmlacademy.ru/htmlcss/35/user/191422).
+* Наставник: [Иван Жарков](https://up.htmlacademy.ru/htmlcss/35/user/191422).
 
 ---
 
